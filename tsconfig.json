@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "rootDir": "./src",
+        "outDir": "./build",
+        "module": "esnext",
+        "target": "esnext",
+        "types": [
+            "google-apps-script"
+        ],
+        "sourceMap": false,
+        "declaration": false,
+        "noUncheckedIndexedAccess": true,
+        "exactOptionalPropertyTypes": true,
+        "strict": true,
+        "skipLibCheck": true
+    }
+}

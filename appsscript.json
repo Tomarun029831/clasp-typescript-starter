@@ -1,0 +1,6 @@
+{
+    "timeZone": "<YOURTIMEZONE>",
+    "dependencies": {},
+    "exceptionLogging": "<YOURSETTING>",
+    "runtimeVersion": "V8"
+}
